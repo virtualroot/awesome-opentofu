@@ -18,6 +18,8 @@ A list of OpenTF resources.
 ## Features
 
 - [End-to-end encryption for state files](https://twitter.com/opentforg/status/1696597790661677207) 🚧
+- [OCI-compliant registry support](https://twitter.com/opentforg/status/1696913055576387599) 🚧
+
 
 ## License
 
