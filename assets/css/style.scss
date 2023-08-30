@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1:first-of-type {
+  font-size: 2px;
+  visibility: hidden;
+}
