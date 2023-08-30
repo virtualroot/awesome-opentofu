@@ -9,6 +9,8 @@ A list of OpenTF resources.
 
 ## Community
 
+*Communication channels and forums.*
+
 * [OpenTF GitHub Discussion](https://github.com/orgs/opentffoundation/discussions)
 * [OpenTF Reddit](https://www.reddit.com/r/opentf/)
 * [OpenTF Twitter](https://twitter.com/opentforg)
