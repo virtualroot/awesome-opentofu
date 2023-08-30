@@ -3,12 +3,15 @@
 
 @import "{{ site.theme }}";
 
-h1:first-of-type {
+.markdown-body h1:first-of-type {
   background: url("/assets/images/brand-symbol-only-transparent-on-light.png") no-repeat;
-  border-bottom: 0px;
-  display:block;
+  border-bottom: none;
+  display: block;
   height: 136px;
   overflow: hidden;
-  text-indent: 100%;
-  white-space: nowrap;
+  margin-bottom: 0;
+
+  a {
+    visibility: hidden;
+  }
 }
