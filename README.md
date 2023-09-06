@@ -2,12 +2,13 @@
 
 A list of OpenTF resources.
 
-> OpenTF is a community-driven effort for the replacement of legacy Terraform.
+> OpenTF lets you declaratively manage your cloud infrastructure. It's a community-driven replacement of legacy Terraform.
 
 ## Official
 
 * [OpenTF webpage](https://opentf.org/)
 * [OpenTF announcement](https://opentf.org/announcement)
+* [OpenTF Repository](https://github.com/opentffoundation/opentf) 🎉
 
 ## Community
 
