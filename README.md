@@ -14,6 +14,7 @@ A list of OpenTF resources.
 *Communication channels and forums.*
 
 * [OpenTF GitHub Discussion](https://github.com/orgs/opentffoundation/discussions)
+* [OpenTF Slack](https://join.slack.com/t/slack-9uv6202/shared_invite/zt-22ifsm1t2-AF6cL0cOdzivP8E~4deDJA)
 * [OpenTF Reddit](https://www.reddit.com/r/opentf/)
 * [OpenTF Twitter](https://twitter.com/opentforg)
 * [OpenTF LinkedIn](https://www.linkedin.com/company/opentf/)
