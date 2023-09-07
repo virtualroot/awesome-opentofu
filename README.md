@@ -22,8 +22,13 @@ A list of OpenTF resources.
 
 ## Features
 
-- [End-to-end encryption for state files](https://twitter.com/opentforg/status/1696597790661677207) 🚧
-- [OCI-compliant registry support](https://twitter.com/opentforg/status/1696913055576387599) 🚧
+* [End-to-end encryption for state files](https://twitter.com/opentforg/status/1696597790661677207) 🚧
+* [OCI-compliant registry support](https://twitter.com/opentforg/status/1696913055576387599) 🚧
+
+## Podcasts
+
+* [Oxide and Friends - Fork in the road for Terraform?](https://www.youtube.com/watch?v=QaU94LY891M)
+* [Changelog -  OpenTF for an open Terraform](https://changelog.com/podcast/556)
 
 ## License
 
