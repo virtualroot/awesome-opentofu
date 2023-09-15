@@ -27,6 +27,7 @@ A list of OpenTF resources.
 
 ## Podcasts
 
+* [TheCloudGambit - The Future of OpenTF](https://www.thecloudgambit.com/2236725/13576531-the-future-of-opentf-with-ohad-maislish)
 * [Oxide and Friends - Fork in the road for Terraform?](https://www.youtube.com/watch?v=QaU94LY891M)
 * [Changelog -  OpenTF for an open Terraform](https://changelog.com/podcast/556)
 
