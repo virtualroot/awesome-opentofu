@@ -1,24 +1,24 @@
-# Awesome OpenTF
+# Awesome OpenTofu
 
-A list of OpenTF resources.
+A list of OpenTofu resources.
 
-> OpenTF lets you declaratively manage your cloud infrastructure. It's a community-driven replacement of legacy Terraform.
+> OpenTofu lets you declaratively manage your cloud infrastructure. It's a community-driven replacement of legacy Terraform.
 
 ## Official
 
-* [OpenTF webpage](https://opentf.org/)
-* [OpenTF announcement](https://opentf.org/announcement)
-* [OpenTF Repository](https://github.com/opentffoundation/opentf) 🎉
+* [OpenTofu webpage](https://opentofu.org/)
+* [OpenTofu announcement](https://opentofu.org/announcement)
+* [OpenTofu Repository](https://github.com/opentofu/opentofu) 🎉
 
 ## Community
 
 *Communication channels and forums.*
 
-* [OpenTF GitHub Discussion](https://github.com/orgs/opentffoundation/discussions)
-* [OpenTF Slack](https://join.slack.com/t/opentfcommunity/shared_invite/zt-22ifsm1t2-AF6cL0cOdzivP8E~4deDJA)
-* [OpenTF Reddit](https://www.reddit.com/r/opentf/)
-* [OpenTF Twitter](https://twitter.com/opentforg)
-* [OpenTF LinkedIn](https://www.linkedin.com/company/opentf/)
+* [OpenTofu GitHub Discussion](https://github.com/orgs/opentofu/discussions)
+* [OpenTofu Slack](https://join.slack.com/t/opentfcommunity/shared_invite/zt-22ifsm1t2-AF6cL0cOdzivP8E~4deDJA)
+* [OpenTofu Reddit](https://www.reddit.com/r/opentf/)
+* [OpenTofu Twitter](https://twitter.com/opentofuorg)
+* [OpenTofu LinkedIn](https://www.linkedin.com/company/opentofuorg/)
 
 ## Features
 
