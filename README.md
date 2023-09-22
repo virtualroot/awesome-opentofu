@@ -32,6 +32,8 @@ A list of OpenTofu resources.
 
 ## Podcasts
 
+<!-- DESC, from most recent to oldest. -->
+* [Ned in the Cloud - IaC Live Stream](https://www.youtube.com/watch?v=p0vDydkUWB4)
 * [Arrested DevOps - What's Up With Open Terraform?](https://www.arresteddevops.com/open-tofu/)
 * [OpenObservability - Terraform is no longer open source. Is OpenTF the successor?](https://www.youtube.com/watch?v=5QdUs9VKq5g)
 * [TheCloudGambit - The Future of OpenTF](https://www.thecloudgambit.com/2236725/13576531-the-future-of-opentf-with-ohad-maislish)
