@@ -8,7 +8,7 @@ A list of OpenTofu resources.
 
 * [OpenTofu webpage](https://opentofu.org/)
 * [OpenTofu announcement](https://opentofu.org/announcement)
-* [OpenTofu Repository](https://github.com/opentofu/opentofu) 🎉
+* [OpenTofu repository](https://github.com/opentofu/opentofu) 🎉
 
 ## Community
 
@@ -24,6 +24,11 @@ A list of OpenTofu resources.
 
 * [End-to-end encryption for state files](https://twitter.com/opentforg/status/1696597790661677207) 🚧
 * [OCI-compliant registry support](https://twitter.com/opentforg/status/1696913055576387599) 🚧
+
+## Media
+
+* [OSS EU 2023 - Announcement](https://www.youtube.com/watch?v=Ha77rpusEDM&t=1190s)
+* [OSS EU 2023 - Project overview](https://www.youtube.com/watch?v=-8sOE9-icmY&t=15116s)
 
 ## Podcasts
 
