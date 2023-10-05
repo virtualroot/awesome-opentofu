@@ -12,13 +12,17 @@ A list of OpenTofu resources.
 
 ## Community
 
-*Communication channels and forums.*
+*Communication channels, meetups, newsletters and forums.*
 
 * [OpenTofu GitHub Discussion](https://github.com/orgs/opentofu/discussions)
 * [OpenTofu Slack](https://join.slack.com/t/opentfcommunity/shared_invite/zt-22ifsm1t2-AF6cL0cOdzivP8E~4deDJA)
 * [OpenTofu Reddit](https://www.reddit.com/r/opentf/)
 * [OpenTofu Twitter](https://twitter.com/opentofuorg)
 * [OpenTofu LinkedIn](https://www.linkedin.com/company/opentofuorg/)
+
+## Environment managers
+
+* [asdf-opentofu](https://github.com/virtualroot/asdf-opentofu) - Tofu plugin for asdf version manager.
 
 ## Features
 
