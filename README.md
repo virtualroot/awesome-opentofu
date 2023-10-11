@@ -16,9 +16,9 @@ A list of OpenTofu resources.
 
 * [OpenTofu GitHub Discussion](https://github.com/orgs/opentofu/discussions)
 * [OpenTofu Slack](https://opentofu.org/slack)
-* [OpenTofu Reddit](https://www.reddit.com/r/opentf/)
 * [OpenTofu Twitter](https://twitter.com/opentofuorg)
 * [OpenTofu LinkedIn](https://www.linkedin.com/company/opentofuorg/)
+* [OpenTofu Reddit](https://www.reddit.com/r/opentf/)
 
 ## Environment managers
 
@@ -30,12 +30,12 @@ A list of OpenTofu resources.
 
 ## Tests
 
-* [Terratest](https://terratest.gruntwork.io/) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. 
+* [Terratest](https://terratest.gruntwork.io/) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 
 ## Features
 
-* [End-to-end encryption for state files](https://twitter.com/opentforg/status/1696597790661677207) 🚧
-* [OCI-compliant registry support](https://twitter.com/opentforg/status/1696913055576387599) 🚧
+* [End-to-end encryption for state files](https://twitter.com/OpenTofuOrg/status/1696597790661677207) 🚧
+* [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
 
 ## Media
 
