@@ -15,10 +15,10 @@ A list of OpenTofu resources.
 *Communication channels, meetups, newsletters and forums.*
 
 * [OpenTofu GitHub Discussion](https://github.com/orgs/opentofu/discussions)
-* [OpenTofu Reddit](https://www.reddit.com/r/opentf/)
 * [OpenTofu Slack](https://opentofu.org/slack)
 * [OpenTofu Twitter](https://twitter.com/opentofuorg)
 * [OpenTofu LinkedIn](https://www.linkedin.com/company/opentofuorg/)
+* [OpenTofu Reddit](https://www.reddit.com/r/opentf/)
 
 ## Environment managers
 

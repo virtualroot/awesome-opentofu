@@ -25,7 +25,7 @@ jobs:
   markdown:
     runs-on: ubuntu-latest
     steps:
-      - uses: action/checkout@v4
+      - uses: actions/checkout@v4
 
       - uses: DavidAnson/markdownlint-cli2-action@v13
         with:
