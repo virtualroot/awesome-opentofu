@@ -16,7 +16,7 @@ A list of OpenTofu resources.
 
 * [OpenTofu GitHub Discussion](https://github.com/orgs/opentofu/discussions)
 * [OpenTofu Slack](https://join.slack.com/t/opentfcommunity/shared_invite/zt-22ifsm1t2-AF6cL0cOdzivP8E~4deDJA)
-* [OpenTofu Reddit](https://www.reddit.com/r/opentf/)
+* [OpenTofu Reddit](https://www.reddit.com/r/OpenTofuOrg/)
 * [OpenTofu Twitter](https://twitter.com/opentofuorg)
 * [OpenTofu LinkedIn](https://www.linkedin.com/company/opentofuorg/)
 
@@ -26,8 +26,8 @@ A list of OpenTofu resources.
 
 ## Features
 
-* [End-to-end encryption for state files](https://twitter.com/opentforg/status/1696597790661677207) 🚧
-* [OCI-compliant registry support](https://twitter.com/opentforg/status/1696913055576387599) 🚧
+* [End-to-end encryption for state files](https://twitter.com/OpenTofuOrg/status/1696597790661677207) 🚧
+* [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
 
 ## Media
 
