@@ -15,7 +15,7 @@ A list of OpenTofu resources.
 *Communication channels, meetups, newsletters and forums.*
 
 * [OpenTofu GitHub Discussion](https://github.com/orgs/opentofu/discussions)
-* [OpenTofu Slack](https://join.slack.com/t/opentfcommunity/shared_invite/zt-22ifsm1t2-AF6cL0cOdzivP8E~4deDJA)
+* [OpenTofu Slack](https://opentofu.org/slack)
 * [OpenTofu Reddit](https://www.reddit.com/r/opentf/)
 * [OpenTofu Twitter](https://twitter.com/opentofuorg)
 * [OpenTofu LinkedIn](https://www.linkedin.com/company/opentofuorg/)
