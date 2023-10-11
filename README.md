@@ -24,6 +24,10 @@ A list of OpenTofu resources.
 
 * [asdf-opentofu](https://github.com/virtualroot/asdf-opentofu) - Tofu plugin for asdf version manager.
 
+## Wrappers
+
+* [Terragrunt](https://terragrunt.gruntwork.io/) - A thin wrapper for OpenTofu that provides extra tools for working with multiple modules.
+
 ## Features
 
 * [End-to-end encryption for state files](https://twitter.com/opentforg/status/1696597790661677207) 🚧
