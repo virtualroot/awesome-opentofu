@@ -30,7 +30,7 @@ A list of OpenTofu resources.
 
 ## Tests
 
-* [Terratest](https://terratest.gruntwork.io/) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. 
+* [Terratest](https://terratest.gruntwork.io/) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 
 ## Features
 
