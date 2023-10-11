@@ -28,6 +28,10 @@ A list of OpenTofu resources.
 
 * [Terragrunt](https://terragrunt.gruntwork.io/) - A thin wrapper for OpenTofu that provides extra tools for working with multiple modules.
 
+## Tests
+
+* [Terratest](https://terratest.gruntwork.io/) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. 
+
 ## Features
 
 * [End-to-end encryption for state files](https://twitter.com/opentforg/status/1696597790661677207) 🚧
