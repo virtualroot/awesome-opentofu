@@ -9,6 +9,7 @@ A list of OpenTofu resources.
 * [OpenTofu webpage](https://opentofu.org/)
 * [OpenTofu announcement](https://opentofu.org/announcement)
 * [OpenTofu repository](https://github.com/opentofu/opentofu) 🎉
+* [Weekly Updates](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md#weekly-updates)
 
 ## Community
 
