@@ -20,6 +20,10 @@ A list of OpenTofu resources.
 * [OpenTofu LinkedIn](https://www.linkedin.com/company/opentofuorg/)
 * [OpenTofu Reddit](https://www.reddit.com/r/opentf/)
 
+## Package managers
+
+* [Homebrew](https://formulae.brew.sh/formula/opentofu#default) - MacOS package manager.
+
 ## Environment managers
 
 * [asdf-opentofu](https://github.com/virtualroot/asdf-opentofu) - Tofu plugin for asdf version manager.
