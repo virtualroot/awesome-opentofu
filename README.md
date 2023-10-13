@@ -1,3 +1,4 @@
+<!--lint ignore awesome-badge-->
 # Awesome OpenTofu <!-- omit in toc -->
 
 A list of OpenTofu resources.
@@ -6,6 +7,7 @@ A list of OpenTofu resources.
 
 ## Contents <!-- omit in toc -->
 
+<!--lint ignore awesome-toc-->
 - [Official](#official)
 - [Community](#community)
 - [Features](#features)
