@@ -5,6 +5,7 @@ A list of OpenTofu resources.
 > OpenTofu lets you declaratively manage your cloud infrastructure. It's a community-driven replacement of legacy Terraform.
 
 ## Contents <!-- omit in toc -->
+
 - [Official](#official)
 - [Community](#community)
 - [Features](#features)
@@ -39,6 +40,7 @@ A list of OpenTofu resources.
 - [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
 
 ## Tools
+
 ### Package managers
 
 - [Homebrew](https://formulae.brew.sh/formula/opentofu#default) - macOS package manager.
