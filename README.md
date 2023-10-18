@@ -15,6 +15,7 @@ A list of OpenTofu resources.
   - [Package managers](#package-managers)
   - [Environment managers](#environment-managers)
   - [Wrappers](#wrappers)
+  - [CI](#ci)
   - [Tests](#tests)
 - [Media](#media)
 - [Podcasts](#podcasts)
@@ -49,11 +50,15 @@ A list of OpenTofu resources.
 
 ### Environment managers
 
-- [asdf-opentofu](https://github.com/virtualroot/asdf-opentofu) - Tofu plugin for asdf version manager.
+- [asdf-opentofu](https://github.com/virtualroot/asdf-opentofu) - OpenTofu plugin for asdf version manager.
 
 ### Wrappers
 
 - [Terragrunt](https://terragrunt.gruntwork.io/) - A thin wrapper for OpenTofu that provides extra tools for working with multiple modules.
+
+### CI
+
+- [setup-opentofu](https://github.com/opentofu/setup-opentofu) - Sets up OpenTofu CLI in your GitHub Actions workflow.
 
 ### Tests
 
