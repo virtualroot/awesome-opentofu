@@ -26,6 +26,7 @@ A list of OpenTofu resources.
 - [Fork announcement](https://opentofu.org/announcement)
 - [OpenTofu repository](https://github.com/opentofu/opentofu) 🎉
 - [Weekly Updates](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md#weekly-updates)
+- [Technical Steering Committee Updates](https://github.com/opentofu/opentofu/blob/main/TSC_SUMMARY.md#technical-steering-committee-tsc-summary)
 
 ## Community
 
