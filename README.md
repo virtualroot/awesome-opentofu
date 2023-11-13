@@ -62,6 +62,7 @@ A list of OpenTofu resources.
 
 - [setup-opentofu](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
 - [tf-via-pr](https://github.com/devsectop/tf-via-pr) - Run Terraform or OpenTofu commands via GitHub PR comments.
+- [terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub Actions for OpenTofu.
 
 ### Tests
 
