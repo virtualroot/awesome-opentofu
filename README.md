@@ -58,6 +58,7 @@ A list of OpenTofu resources.
 ### Wrappers
 
 - [Terragrunt](https://terragrunt.gruntwork.io/) - A thin wrapper for OpenTofu that provides extra tools for working with multiple modules.
+- [easy_infra](https://github.com/SeisoLLC/easy_infra) - A docker container to simplify and secure the use of Infrastructure as Code.
 
 ### CI
 
