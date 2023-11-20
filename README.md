@@ -17,6 +17,7 @@ A list of OpenTofu resources.
   - [Wrappers](#wrappers)
   - [CI](#ci)
   - [Tests](#tests)
+  - [State](#state)
 - [Media](#media)
 - [Podcasts](#podcasts)
 
@@ -67,6 +68,10 @@ A list of OpenTofu resources.
 ### Tests
 
 - [Terratest](https://terratest.gruntwork.io/) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+
+### State
+
+- [tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps.
 
 ## Media
 
