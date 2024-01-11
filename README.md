@@ -57,6 +57,7 @@ A list of OpenTofu resources.
 - [asdf-opentofu](https://github.com/virtualroot/asdf-opentofu) - OpenTofu plugin for asdf version manager.
 - [tfswitcher](https://github.com/ASleepyCat/tfswitcher) - Terraform and OpenTofu version switcher written in Rust.
 - [tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
+- [gotofuenv](https://github.com/dvaumoron/gotofuenv) - OpenTofu version manager written in Go.
 
 ### Wrappers
 
