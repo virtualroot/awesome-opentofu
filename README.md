@@ -36,10 +36,10 @@ A list of OpenTofu resources.
 *Communication channels, meetups, newsletters and forums.*
 
 - [OpenTofu GitHub Discussion](https://github.com/orgs/opentofu/discussions)
-- [OpenTofu Slack](https://opentofu.org/slack)
-- [OpenTofu Twitter](https://twitter.com/opentofuorg)
 - [OpenTofu LinkedIn](https://www.linkedin.com/company/opentofuorg/)
 - [OpenTofu Reddit](https://www.reddit.com/r/opentf/)
+- [OpenTofu Slack](https://opentofu.org/slack)
+- [OpenTofu Twitter](https://twitter.com/opentofuorg)
 
 ## Features
 
@@ -55,10 +55,12 @@ A list of OpenTofu resources.
 ### Environment managers
 
 - [asdf-opentofu](https://github.com/virtualroot/asdf-opentofu) - OpenTofu plugin for asdf version manager.
+- [gotofuenv](https://github.com/dvaumoron/gotofuenv) - OpenTofu version manager written in Go.
+- [tenv](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
+- [tfam](https://github.com/Ant0wan/tfam) - Rust-based wrapper for concurrent Terraform apply, enabling multi-deployment support.
+- [tfexe](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform with version control.
 - [tfswitcher](https://github.com/ASleepyCat/tfswitcher) - Terraform and OpenTofu version switcher written in Rust.
 - [tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
-- [tenv](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
-- [gotofuenv](https://github.com/dvaumoron/gotofuenv) - OpenTofu version manager written in Go.
 
 ### Wrappers
 
@@ -68,10 +70,10 @@ A list of OpenTofu resources.
 
 ### CI
 
-- [setup-opentofu](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
-- [tf-via-pr-comments](https://github.com/devsectop/tf-via-pr-comments) - GitHub Action to run Terraform or OpenTofu CLI commands via PR comments.
-- [terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub Actions for OpenTofu.
 - [pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - Git pre-commit hooks plugin for OpenTofu.
+- [setup-opentofu](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
+- [terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub Actions for OpenTofu.
+- [tf-via-pr-comments](https://github.com/devsectop/tf-via-pr-comments) - GitHub Action to run Terraform or OpenTofu CLI commands via PR comments.
 
 ### Tests
 
