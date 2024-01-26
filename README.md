@@ -67,6 +67,7 @@ A list of OpenTofu resources.
 - [Terragrunt](https://terragrunt.gruntwork.io/) - A thin wrapper for OpenTofu that provides extra tools for working with multiple modules.
 - [easy_infra](https://github.com/SeisoLLC/easy_infra) - A docker container to simplify and secure the use of Infrastructure as Code.
 - [tfwrapper](https://github.com/claranet/tfwrapper) - `tfwrapper` is a Python wrapper that aims to simplify OpenTofu usage and enforce best practices.
+- [Terramate](https://github.com/terramate-io/terramate) - Automation, orchestration and code generation for OpenTofu, Terraform, Kubernetes, and others.
 
 ### CI
 
