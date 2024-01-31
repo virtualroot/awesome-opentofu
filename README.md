@@ -97,6 +97,7 @@ A list of OpenTofu resources.
 ## Podcasts
 
 <!-- DESC, from most recent to oldest. -->
+- [TheIaCPodcast - Expert Panel on OpenTofu GA Release, Licensing, and OSS Future](https://www.theiacpodcast.com/episode/expert-panel-on-opentofu-ga-release-licensing-and-oss-future)
 - [Contributor - Community Driven IaC](https://www.contributor.fyi/opentofu)
 - [Ned in the Cloud - IaC Live Stream](https://www.youtube.com/watch?v=p0vDydkUWB4)
 - [Arrested DevOps - What's Up With Open Terraform?](https://www.arresteddevops.com/open-tofu/)
