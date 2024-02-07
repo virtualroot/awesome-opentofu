@@ -18,6 +18,7 @@ A list of OpenTofu resources.
   - [CI](#ci)
   - [Tests](#tests)
   - [State](#state)
+- [OpenTofu Platforms](#platform)
 - [Media](#media)
 - [Podcasts](#podcasts)
 
@@ -88,6 +89,10 @@ A list of OpenTofu resources.
 ### Providers
 
 - [tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform / OpenTofu providers.
+
+## Platform
+
+- [terrakube](https://docs.terrakube.io) - Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states that is compatible with Opentofu.
 
 ## Media
 
