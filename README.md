@@ -59,7 +59,6 @@ A list of OpenTofu resources.
 ### Environment managers
 
 - [asdf-opentofu](https://github.com/virtualroot/asdf-opentofu) - OpenTofu plugin for asdf version manager.
-- [gotofuenv](https://github.com/dvaumoron/gotofuenv) - OpenTofu version manager written in Go.
 - [tenv](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
 - [tfam](https://github.com/Ant0wan/tfam) - Rust-based wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
 - [tfexe](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
