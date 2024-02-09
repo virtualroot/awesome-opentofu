@@ -20,6 +20,7 @@ A list of OpenTofu resources.
   - [State](#state)
   - [Providers](#providers)
   - [Platforms](#platforms)
+  - [Helpers](#helpers)
 - [Media](#media)
 - [Podcasts](#podcasts)
 
@@ -94,6 +95,10 @@ A list of OpenTofu resources.
 ### Platforms
 
 - [terrakube](https://terrakube.org/) - Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states that is compatible with Opentofu.
+
+### Helpers
+
+- [terratag](https://github.com/env0/terratag) - Terratag is a CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files. Terratag will apply tags or labels to any AWS, GCP and Azure resources.
 
 ## Media
 
