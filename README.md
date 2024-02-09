@@ -20,6 +20,7 @@ A list of OpenTofu resources.
   - [State](#state)
   - [Providers](#providers)
   - [Platforms](#platforms)
+  - [Registry](#registry)
   - [Helpers](#helpers)
 - [Media](#media)
 - [Podcasts](#podcasts)
@@ -95,6 +96,10 @@ A list of OpenTofu resources.
 ### Platforms
 
 - [terrakube](https://terrakube.org/) - Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states that is compatible with Opentofu.
+
+### Registry
+
+- [boring-registry](https://github.com/boring-registry/boring-registry) - Boring-registry is an open source module and provider registry compatible with Terraform and OpenTofu.
 
 ### Helpers
 
