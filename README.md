@@ -1,9 +1,8 @@
-<!--lint ignore awesome-badge-->
-# Awesome OpenTofu <!-- omit in toc -->
+# Awesome OpenTofu [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 A list of OpenTofu resources.
 
-> OpenTofu lets you declaratively manage your cloud infrastructure. It's a community-driven replacement of legacy Terraform.
+> OpenTofu lets you declaratively manage your cloud infrastructure. It's a community-driven replacement of Terraform.
 
 ## Contents <!-- omit in toc -->
 
@@ -122,7 +121,3 @@ A list of OpenTofu resources.
 - [TheCloudGambit - The Future of OpenTF](https://www.thecloudgambit.com/2236725/13576531-the-future-of-opentf-with-ohad-maislish)
 - [Oxide and Friends - Fork in the road for Terraform?](https://www.youtube.com/watch?v=QaU94LY891M)
 - [Changelog -  OpenTF for an open Terraform](https://changelog.com/podcast/556)
-
-## License <!-- omit in toc -->
-
-CC0
