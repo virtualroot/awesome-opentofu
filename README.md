@@ -108,7 +108,8 @@
 
 ## Learning
 
-* [https://www.manning.com/books/terraform-in-depth] - Book with OpenTofu sections.
+* [OpenTofu Course](https://killercoda.com/quincycheng/course/course_opentofu) - Interactive tutorials.
+* [Terraform in Depth](https://www.manning.com/books/terraform-in-depth) - Book with OpenTofu sections.
 
 ## Media
 
