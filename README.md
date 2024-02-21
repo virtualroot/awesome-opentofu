@@ -24,9 +24,8 @@
 
 ## Official
 
-- [Website](https://opentofu.org/)
-- [Fork announcement](https://opentofu.org/announcement)
 - [OpenTofu repository](https://github.com/opentofu/opentofu) 🎉
+- [Fork announcement](https://opentofu.org/announcement)
 - [Official registry](https://github.com/opentofu/registry)
 - [Weekly Updates](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md#weekly-updates)
 - [Office Hours](https://www.youtube.com/watch?v=aEoMzUza6Ok&list=PLnVotLM2QsyhCc1_8PA7fbVF-ixt4_XAY)
