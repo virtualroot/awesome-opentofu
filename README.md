@@ -1,8 +1,8 @@
 # Awesome OpenTofu [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
-A list of OpenTofu resources.
+A refined list of OpenTofu resources and tools.
 
-> OpenTofu lets you declaratively manage your cloud infrastructure. It's a community-driven replacement of Terraform.
+> OpenTofu lets you declaratively manage your infrastructure. It's an open-source and community-driven alternative to Terraform.
 
 ## Contents <!-- omit in toc -->
 
