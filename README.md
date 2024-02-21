@@ -58,7 +58,7 @@ A refined list of OpenTofu resources and tools.
 
 ### Wrappers
 
-*Simplify your OpenTofu workflows with a thin wrapper*
+*Simplify your OpenTofu workflows with a thin wrapper.*
 
 - [Terragrunt](https://terragrunt.gruntwork.io/) - Keep your configurations DRY, work with multiple Terraform modules, and manage remote state.
 - [Terramate](https://github.com/terramate-io/terramate) - Automation, orchestration and code generation for OpenTofu, Terraform, Kubernetes, and others.
@@ -80,15 +80,19 @@ A refined list of OpenTofu resources and tools.
 
 ### State
 
+*Analize and manipulate OpenTofu's state.*
+
 - [tfmigrate](https://github.com/minamijoyo/tfmigrate) - State migration tool.
 
 ### Providers
+
+*Inspect and interact with OpenTofu providers.*
 
 - [tfschema](https://github.com/minamijoyo/tfschema) - Schema inspector for Terraform/OpenTofu providers.
 
 ### Platforms
 
-*Alternatives to Terraform Cloud*
+*Alternatives to Terraform Cloud.*
 
 - [digger](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
 - [terrakube](https://terrakube.org/) - Open-source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states that is compatible with OpenTofu.
