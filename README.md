@@ -58,17 +58,19 @@ A list of OpenTofu resources.
 
 - [asdf-opentofu](https://github.com/virtualroot/asdf-opentofu) - OpenTofu plugin for asdf version manager.
 - [tenv](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
-- [tfam](https://github.com/Ant0wan/tfam) - Rust-based wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
-- [tfexe](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
 - [tfswitcher](https://github.com/ASleepyCat/tfswitcher) - Terraform and OpenTofu version switcher written in Rust.
 - [tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
 
 ### Wrappers
 
+*Simplify your OpenTofu workflows with a thin wrapper*
+
 - [Terragrunt](https://terragrunt.gruntwork.io/) - A thin wrapper for OpenTofu that provides extra tools for working with multiple modules.
-- [easy_infra](https://github.com/SeisoLLC/easy_infra) - A docker container to simplify and secure the use of Infrastructure as Code.
-- [tfwrapper](https://github.com/claranet/tfwrapper) - `tfwrapper` is a Python wrapper that aims to simplify OpenTofu usage and enforce best practices.
 - [Terramate](https://github.com/terramate-io/terramate) - Automation, orchestration and code generation for OpenTofu, Terraform, Kubernetes, and others.
+- [easy_infra](https://github.com/SeisoLLC/easy_infra) - A docker container to simplify and secure the use of Infrastructure as Code.
+- [tfam](https://github.com/Ant0wan/tfam) - Rust-based wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
+- [tfexe](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
+- [tfwrapper](https://github.com/claranet/tfwrapper) - `tfwrapper` is a Python wrapper that aims to simplify OpenTofu usage and enforce best practices.
 
 ### CI
 
