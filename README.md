@@ -10,7 +10,6 @@ A refined list of OpenTofu resources and tools.
 - [Community](#community)
 - [Features](#features)
 - [Tools](#tools)
-  - [Package managers](#package-managers)
   - [Environment managers](#environment-managers)
   - [Wrappers](#wrappers)
   - [CI](#ci)
@@ -49,10 +48,6 @@ A refined list of OpenTofu resources and tools.
 - [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
 
 ## Tools
-
-### Package managers
-
-- [Homebrew](https://formulae.brew.sh/formula/opentofu#default) - macOS package manager.
 
 ### Environment managers
 
