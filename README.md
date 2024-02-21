@@ -6,7 +6,6 @@ A list of OpenTofu resources.
 
 ## Contents <!-- omit in toc -->
 
-<!--lint ignore awesome-toc-->
 - [Official](#official)
 - [Community](#community)
 - [Features](#features)
