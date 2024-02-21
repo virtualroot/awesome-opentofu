@@ -93,6 +93,8 @@ A refined list of OpenTofu resources and tools.
 
 ### Platforms
 
+*Alternatives to Terraform Cloud*
+
 - [digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
 - [terrakube](https://terrakube.org/) - Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states that is compatible with OpenTofu.
 - [walrus](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools including OpenTofu, Terraform and others. It helps platform engineers build golden paths for developers and empowers developers with self-service capabilities.
