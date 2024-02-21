@@ -19,6 +19,7 @@
   - [Platforms](#platforms)
   - [Registry](#registry)
   - [Helpers](#helpers)
+- [Learning](#learning)
 - [Media](#media)
 - [Podcasts](#podcasts)
 
@@ -104,6 +105,10 @@
 ### Helpers
 
 - [terratag](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
+
+## Learning
+
+* [https://www.manning.com/books/terraform-in-depth] - Book with OpenTofu sections.
 
 ## Media
 
