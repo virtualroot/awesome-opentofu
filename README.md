@@ -60,8 +60,8 @@
 
 *Simplify your OpenTofu workflows with a thin wrapper.*
 
-- [Atmos](https://github.com/cloudposse/atmos) - 👽 Terraform/OpenTofu Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of yaml configurations, inheritance, and WAY more.
-- [Terragrunt](https://terragrunt.gruntwork.io/) - Keep your configurations DRY, work with multiple Terraform modules, and manage remote state.
+- [Atmos](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
+- [Terragrunt](https://terragrunt.gruntwork.io/) - Keep your configurations DRY, work with multiple modules, and manage remote state.
 - [Terramate](https://github.com/terramate-io/terramate) - Automation, orchestration and code generation for OpenTofu, Terraform, Kubernetes, and others.
 - [easy_infra](https://github.com/SeisoLLC/easy_infra) - Docker container to simplify and secure the use of infrastructure as code.
 - [tfam](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
@@ -89,7 +89,7 @@
 
 *Inspect and interact with OpenTofu providers.*
 
-- [tfschema](https://github.com/minamijoyo/tfschema) - Schema inspector for Terraform/OpenTofu providers.
+- [tfschema](https://github.com/minamijoyo/tfschema) - Schema inspector for providers.
 
 ### Platforms
 
