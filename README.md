@@ -102,6 +102,7 @@
 ### Registry
 
 - [boring-registry](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with Terraform and OpenTofu.
+- [terrac](https://github.com/haoliangyu/terrac) - Minimal private module registry.
 
 ### Helpers
 
