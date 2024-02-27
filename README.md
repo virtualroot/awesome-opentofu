@@ -61,7 +61,7 @@
 *Simplify your OpenTofu workflows with a thin wrapper.*
 
 - [Atmos](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
-- [Terragrunt](https://terragrunt.gruntwork.io/) - Keep your configurations DRY, work with multiple modules, and manage remote state.
+- [Terragrunt](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
 - [Terramate](https://github.com/terramate-io/terramate) - Automation, orchestration and code generation for OpenTofu, Terraform, Kubernetes, and others.
 - [easy_infra](https://github.com/SeisoLLC/easy_infra) - Docker container to simplify and secure the use of infrastructure as code.
 - [tfam](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
@@ -77,7 +77,7 @@
 
 ### Tests
 
-- [Terratest](https://terratest.gruntwork.io/) - Go library that makes it easier to write automated tests for your infrastructure code.
+- [Terratest](https://github.com/gruntwork-io/terratest) - Go library that makes it easier to write automated tests for your infrastructure code.
 
 ### State
 
@@ -96,7 +96,7 @@
 *Alternatives to Terraform Cloud.*
 
 - [digger](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
-- [terrakube](https://terrakube.org/) - Open-source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states that is compatible with OpenTofu.
+- [terrakube](https://github.com/AzBuilder/terrakube) - Open-source platform with private registry, remote state, custom flows, scheduled workspaces, and visual states.
 - [walrus](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools including OpenTofu, Terraform and others.
 
 ### Registry
