@@ -46,6 +46,7 @@
 
 - [End-to-end encryption for state files](https://youtu.be/rR4IbhlRSkI) 🚧
 - [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
+- [Provider-defined functions](https://www.youtube.com/shorts/4aHZjDz2VWg) 🚧
 
 ## Tools
 
