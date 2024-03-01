@@ -101,9 +101,17 @@
 
 ### Registry
 
-- [boring-registry](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with Terraform and OpenTofu.
-- [hermitcrab](https://github.com/seal-io/hermitcrab) - Registry network mirroring service.
-- [terrac](https://github.com/haoliangyu/terrac) - Minimal private module registry.
+- [boring-registry](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with OpenTofu.
+- [hermitcrab](https://github.com/seal-io/hermitcrab) - Registry network mirroring service compatible with OpenTofu.
+- [terrac](https://github.com/haoliangyu/terrac) - Minimal private module registry compatible with OpenTofu.
+- [GitLab Module Registry](https://docs.gitlab.com/ee/user/packages/terraform_module_registry/) - Use GitLab projects as a private registry for terraform modules.
+- [terralist](https://github.com/terralist/terralist) - Private registry for providers and modules.
+- [citizen](https://github.com/outsideris/citizen) - Private registry for modules and providers with support for multiple databases and storages.
+- [petra](https://github.com/devoteamgcloud/petra) - Private registry manager using Google Cloud Storage.
+- [tapir](https://github.com/PacoVK/tapir) - Private registry for modules and providers with an UI.
+- [terraform-registry](https://github.com/nrkno/terraform-registry) - Modules registry with authentication and support for multiple backends.
+- [terrareg](https://github.com/MatthewJohn/terrareg) - Open-source modules registry with UI, optional Git integration and deep analysis.
+- [terustry](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
 
 ### Helpers
 
