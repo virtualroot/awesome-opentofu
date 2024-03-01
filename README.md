@@ -44,7 +44,7 @@
 
 ## Features
 
-- [End-to-end encryption for state files](https://twitter.com/OpenTofuOrg/status/1696597790661677207) 🚧
+- [End-to-end encryption for state files](https://youtu.be/rR4IbhlRSkI) 🚧
 - [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
 
 ## Tools
