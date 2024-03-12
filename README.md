@@ -123,6 +123,7 @@
 
 - [OpenTofu Course](https://killercoda.com/quincycheng/course/course_opentofu) - Interactive tutorials.
 - [Terraform in Depth](https://www.manning.com/books/terraform-in-depth) - Book with OpenTofu sections.
+- [Infrastructure automation with OpenTofu](https://www.udemy.com/course/infrastructure-automation-with-opentofu-hands-on-devops/?couponCode=1D97F4D8FFE62E296BE1) - Learn infrastructure provisioning with lectures, quizzes, hands-on demos and coding exercises.
 
 ## Media
 
