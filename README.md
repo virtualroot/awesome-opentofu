@@ -82,7 +82,7 @@
 
 ### State
 
-*Analize and manipulate OpenTofu's state.*
+*Analyze and manipulate OpenTofu's state.*
 
 - [tfmigrate](https://github.com/minamijoyo/tfmigrate) - State migration tool.
 
@@ -127,7 +127,7 @@
 ## Media
 
 - [OSS EU 2023 - Announcement](https://www.youtube.com/watch?v=Ha77rpusEDM&t=1190s)
-- [OSS EU 2023 - Project overview](https://www.youtube.com/watch?v=-8sOE9-icmY&t=15116s)
+- [OSS EU 2023 - Project Overview](https://www.youtube.com/watch?v=-8sOE9-icmY&t=15116s)
 - [Code To Cloud - Getting Started With OpenTofu](https://www.youtube.com/watch?v=HeUz6TMg82U)
 - [CNCF - OpenTofu Day 2024](https://www.youtube.com/playlist?list=PLnVotLM2Qsyiw_6Pd_9WxRRLdrUAs3c1c)
 
@@ -135,7 +135,7 @@
 
 <!-- DESC, from most recent to oldest. -->
 - [TheIaCPodcast - Expert Panel on OpenTofu GA Release, Licensing, and OSS Future](https://www.theiacpodcast.com/episode/expert-panel-on-opentofu-ga-release-licensing-and-oss-future)
-- [Contributor - Community Driven IaC](https://www.contributor.fyi/opentofu)
+- [Contributor - Community-Driven IaC](https://www.contributor.fyi/opentofu)
 - [Ned in the Cloud - IaC Live Stream](https://www.youtube.com/watch?v=p0vDydkUWB4)
 - [Arrested DevOps - What's Up With Open Terraform?](https://www.arresteddevops.com/open-tofu/)
 - [OpenObservability - Terraform is no longer open source. Is OpenTF the successor?](https://www.youtube.com/watch?v=5QdUs9VKq5g)
