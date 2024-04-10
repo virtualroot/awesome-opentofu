@@ -51,11 +51,11 @@
 
 ### Environment managers
 
+- [arkade](https://github.com/alexellis/arkade) - CLI and Kubernetes app installer.
 - [asdf-opentofu](https://github.com/virtualroot/asdf-opentofu) - OpenTofu plugin for asdf version manager.
 - [tenv](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
 - [tfswitcher](https://github.com/ASleepyCat/tfswitcher) - Terraform and OpenTofu version switcher written in Rust.
 - [tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
-
 ### Wrappers
 
 *Simplify your OpenTofu workflows with a thin wrapper.*
