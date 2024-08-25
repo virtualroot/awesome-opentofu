@@ -144,6 +144,7 @@
 ## Podcasts
 
 <!-- DESC, from most recent to oldest. -->
+- [Kubernetes Podcast - OpenTofu, with Ohad Maislish](https://kubernetespodcast.com/episode/232-opentofu/)
 - [TheIaCPodcast - Expert Panel on OpenTofu GA Release, Licensing, and OSS Future](https://www.theiacpodcast.com/episode/expert-panel-on-opentofu-ga-release-licensing-and-oss-future)
 - [Contributor - Community-Driven IaC](https://www.contributor.fyi/opentofu)
 - [Ned in the Cloud - IaC Live Stream](https://www.youtube.com/watch?v=p0vDydkUWB4)
