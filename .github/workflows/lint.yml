@@ -17,7 +17,8 @@ jobs:
         uses: lycheeverse/lychee-action@v2.0.2
         with:
           # Exclude twitter.com (https://github.com/lycheeverse/lychee/issues/989)
-          args: README.md --verbose --no-progress --exclude twitter.com
+          # Exclude udemy.com (Failed: Network error: Forbidden)
+          args: README.md --verbose --no-progress --exclude twitter.com --exclude udemy.com
           fail: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
