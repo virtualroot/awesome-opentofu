@@ -43,6 +43,8 @@
 
 ## Features
 
+<!--lint disable double-link-->
+
 - [1.8 - Override files for OpenTofu (.tofu)](https://opentofu.org/docs/intro/whats-new/#override-files-for-opentofu-keeping-compatibility)
 - [1.8 - Early variable and locals evaluation](https://opentofu.org/docs/intro/whats-new/#early-variablelocals-evaluation)
 - [1.7 - End-to-end encryption for state files](https://opentofu.org/docs/v1.7/intro/whats-new/#state-encryption)
@@ -50,6 +52,8 @@
 - [1.7 - Removed block](https://opentofu.org/docs/v1.7/intro/whats-new/#removed-block)
 - [1.7 - Loopable import blocks](https://opentofu.org/docs/v1.7/intro/whats-new/#loopable-import-blocks)
 - [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
+
+<!--lint enable double-link-->
 
 ## Tools
 
