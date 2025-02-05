@@ -14,7 +14,7 @@ jobs:
 
       - name: Check links
         id: lychee
-        uses: lycheeverse/lychee-action@v2.2.0
+        uses: lycheeverse/lychee-action@v2.3.0
         with:
           # Exclude twitter.com (https://github.com/lycheeverse/lychee/issues/989)
           # Exclude udemy.com (Failed: Network error: Forbidden)
