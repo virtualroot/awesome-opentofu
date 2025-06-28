@@ -135,6 +135,7 @@
 - [terraform-registry](https://github.com/nrkno/terraform-registry) - Modules registry with authentication and support for multiple backends.
 - [terrareg](https://github.com/MatthewJohn/terrareg) - Open-source modules registry with UI, optional Git integration and deep analysis.
 - [terustry](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
+- [tofuref](https://github.com/djetelina/tofuref) - TUI for OpenTofu provider registry.
 
 ### Helpers
 
@@ -142,7 +143,6 @@
 - [VS Code Extension](https://open-vsx.org/extension/OpenTofu/vscode-opentofu) - Extension for Visual Studio Code with the OpenTofu Language Server adds editing features for OpenTofu files such as syntax highlighting, IntelliSense, code navigation, code formatting, module explorer.
 - [terratag](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
 - [tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
-- [tofuref](https://github.com/djetelina/tofuref) - TUI for OpenTofu provider registry.
 
 ## Learning
 
