@@ -27,7 +27,8 @@
 
 - [OpenTofu repository](https://github.com/opentofu/opentofu) 🎉
 - [Fork announcement](https://opentofu.org/announcement)
-- [Official registry](https://github.com/opentofu/registry)
+- [Registry](https://github.com/opentofu/registry)
+- [Registry MCP Server](https://github.com/opentofu/opentofu-mcp-server#opentofu-mcp-server)
 - [Weekly updates](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md#weekly-updates)
 - [Office hours](https://www.youtube.com/watch?v=aEoMzUza6Ok&list=PLnVotLM2QsyhCc1_8PA7fbVF-ixt4_XAY)
 - [Technical Steering Committee updates](https://github.com/opentofu/opentofu/blob/main/TSC_SUMMARY.md#technical-steering-committee-tsc-summary)
@@ -137,7 +138,8 @@
 
 ### Helpers
 
-- [OpenTofu Language Server](https://github.com/opentofu/tofu-ls) - OpenTofu Language Server
+- []
+- [OpenTofu Language Server](https://github.com/opentofu/tofu-ls) - OpenTofu Language Server.
 - [VS Code Extension](https://open-vsx.org/extension/OpenTofu/vscode-opentofu) - Extension for Visual Studio Code with the OpenTofu Language Server adds editing features for OpenTofu files such as syntax highlighting, IntelliSense, code navigation, code formatting, module explorer.
 - [terratag](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
 - [tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
