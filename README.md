@@ -45,15 +45,19 @@
 
 <!--lint disable double-link-->
 
+- [1.10 - Enhanced moved and removed blocks](https://opentofu.org/docs/intro/whats-new/#enhanced-moved-and-removed-blocks)
+- [1.10 - External key providers](https://opentofu.org/docs/intro/whats-new/#external-key-providers)
+- [1.10 - OCI registry support](https://opentofu.org/docs/cli/oci_registries/)
+- [1.10 - S3 native state locking](https://opentofu.org/docs/intro/whats-new/#native-s3-state-locking)
+- [1.10 - Target and exclude files](https://opentofu.org/docs/intro/whats-new/#target-and-exclude-files)
 - [1.9 - Provider iteration with for_each](https://opentofu.org/docs/intro/whats-new/#provider-iteration-for_each)
 - [1.9 - The -exclude flag](https://opentofu.org/docs/intro/whats-new/#the--exclude-flag)
-- [1.8 - Override files for OpenTofu (.tofu)](https://opentofu.org/docs/intro/whats-new/#override-files-for-opentofu-keeping-compatibility)
 - [1.8 - Early variable and locals evaluation](https://opentofu.org/docs/intro/whats-new/#early-variablelocals-evaluation)
+- [1.8 - Override files for OpenTofu (.tofu)](https://opentofu.org/docs/intro/whats-new/#override-files-for-opentofu-keeping-compatibility)
 - [1.7 - End-to-end encryption for state files](https://opentofu.org/docs/v1.7/intro/whats-new/#state-encryption)
+- [1.7 - Loopable import blocks](https://opentofu.org/docs/v1.7/intro/whats-new/#loopable-import-blocks)
 - [1.7 - Provider-defined functions](https://opentofu.org/docs/v1.7/intro/whats-new/#provider-defined-functions)
 - [1.7 - Removed block](https://opentofu.org/docs/v1.7/intro/whats-new/#removed-block)
-- [1.7 - Loopable import blocks](https://opentofu.org/docs/v1.7/intro/whats-new/#loopable-import-blocks)
-- [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
 - [CanI.TF - Feature parity between Terraform and OpenTofu](https://cani.tf/)
 
 <!--lint enable double-link-->
