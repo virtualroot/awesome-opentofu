@@ -112,6 +112,7 @@
 *Inspect and interact with OpenTofu providers.*
 
 - [tfschema](https://github.com/minamijoyo/tfschema) - Schema inspector for providers.
+- [terrabound](https://github.com/65156/terrabound) - Discovers OpenTofu (Terraform) Version and Provider Version constraints in github (includes GHE) repositories and deep searches inside declared modules.
 
 ### Platforms
 
