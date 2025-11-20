@@ -18,7 +18,8 @@ jobs:
         with:
           # Exclude twitter.com (https://github.com/lycheeverse/lychee/issues/989)
           # Exclude udemy.com (Failed: Network error: Forbidden)
-          args: README.md --verbose --no-progress --exclude twitter.com --exclude udemy.com
+          # Add check for url.com/index#fragments
+          args: README.md --verbose --no-progress --exclude twitter.com --exclude udemy.com --include-fragments
           fail: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

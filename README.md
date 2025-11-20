@@ -29,7 +29,7 @@
 - [Fork announcement](https://opentofu.org/announcement)
 - [Registry](https://github.com/opentofu/registry)
 - [Registry MCP Server](https://github.com/opentofu/opentofu-mcp-server#opentofu-mcp-server)
-- [Weekly updates](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md#weekly-updates)
+- [Weekly updates](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md)
 - [Office hours](https://www.youtube.com/watch?v=aEoMzUza6Ok&list=PLnVotLM2QsyhCc1_8PA7fbVF-ixt4_XAY)
 - [Technical Steering Committee updates](https://github.com/opentofu/org/tree/main/TSC)
 
@@ -90,7 +90,7 @@
 ### CI
 
 - [Atlantis](https://www.runatlantis.io/) - Automating workflows via pull requests.
-- [Burrito](https://docs.burrito.tf/overview/) - Burrito is a TACoS (Terraform Automation and Collaboration Software) that works inside Kubernetes.
+- [Burrito](https://docs.burrito.tf/latest/overview/) - A TACoS (Terraform Automation and Collaboration Software) that works inside Kubernetes.
 - [TF-via-PR](https://github.com/OP5dev/TF-via-PR) - GitHub Action to init, plan and apply Terraform/OpenTofu via PR automation.
 - [pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - Git pre-commit hooks plugin.
 - [setup-opentofu](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
@@ -126,10 +126,10 @@
 ### Registry
 
 - [library.tf](https://library.tf/) - An indexer of registries for providers and modules with insights and documentation.
-- [boring-registry](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with OpenTofu.
+- [boring-registry](https://github.com/boring-registry/boring-registry) - An open-source module and provider registry compatible with OpenTofu.
 - [hermitcrab](https://github.com/seal-io/hermitcrab) - Registry network mirroring service compatible with OpenTofu.
 - [terrac](https://github.com/haoliangyu/terrac) - Minimal private module registry compatible with OpenTofu.
-- [GitLab Module Registry](https://docs.gitlab.com/ee/user/packages/terraform_module_registry/) - Use GitLab projects as a private registry for terraform modules.
+- [GitLab Module Registry](https://docs.gitlab.com/ee/user/packages/terraform_module_registry/) - Use GitLab projects as a private registry for Terraform modules.
 - [terralist](https://github.com/terralist/terralist) - Private registry for providers and modules.
 - [citizen](https://github.com/outsideris/citizen) - Private registry for modules and providers with support for multiple databases and storages.
 - [petra](https://github.com/devoteamgcloud/petra) - Private registry manager using Google Cloud Storage.
@@ -141,7 +141,7 @@
 
 ### Helpers
 
-- [OpenTofu Language Server](https://github.com/opentofu/tofu-ls) - OpenTofu Language Server.
+- [OpenTofu Language Server](https://github.com/opentofu/tofu-ls) - The OpenTofu Language Server.
 - [VS Code Extension](https://open-vsx.org/extension/OpenTofu/vscode-opentofu) - Extension for Visual Studio Code with the OpenTofu Language Server adds editing features for OpenTofu files such as syntax highlighting, IntelliSense, code navigation, code formatting, module explorer.
 - [zed Extension](https://github.com/ashpool37/zed-extension-opentofu) - Extension for the Zed Editor.
 - [terratag](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
