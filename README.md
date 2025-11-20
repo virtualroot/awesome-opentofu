@@ -29,7 +29,7 @@
 - [Fork announcement](https://opentofu.org/announcement)
 - [Registry](https://github.com/opentofu/registry)
 - [Registry MCP Server](https://github.com/opentofu/opentofu-mcp-server#opentofu-mcp-server)
-- [Weekly updates](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md#weekly-updates)
+- [Weekly updates](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md)
 - [Office hours](https://www.youtube.com/watch?v=aEoMzUza6Ok&list=PLnVotLM2QsyhCc1_8PA7fbVF-ixt4_XAY)
 - [Technical Steering Committee updates](https://github.com/opentofu/org/tree/main/TSC)
 
@@ -90,7 +90,7 @@
 ### CI
 
 - [Atlantis](https://www.runatlantis.io/) - Automating workflows via pull requests.
-- [Burrito](https://docs.burrito.tf/overview/) - A TACoS (Terraform Automation and Collaboration Software) that works inside Kubernetes.
+- [Burrito](https://docs.burrito.tf/latest/overview/) - A TACoS (Terraform Automation and Collaboration Software) that works inside Kubernetes.
 - [TF-via-PR](https://github.com/OP5dev/TF-via-PR) - GitHub Action to init, plan and apply Terraform/OpenTofu via PR automation.
 - [pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - Git pre-commit hooks plugin.
 - [setup-opentofu](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
