@@ -10,7 +10,7 @@ jobs:
   lychee:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
 
       - name: Check links
         id: lychee
@@ -27,7 +27,7 @@ jobs:
   markdown:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
 
       - uses: DavidAnson/markdownlint-cli2-action@v21
         with:
@@ -38,7 +38,7 @@ jobs:
   awesome-lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
 
