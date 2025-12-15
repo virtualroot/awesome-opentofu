@@ -97,6 +97,7 @@
 - [terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub Actions for OpenTofu.
 - [tofu-controller](https://github.com/flux-iac/tofu-controller) - GitOps OpenTofu and Terraform controller for Flux.
 - [tofUI](https://github.com/65156/tofUI) - Easily export OpenTofu and Terraform plans in HTML for better readability.
+- [drifthound](https://github.com/treezio/drifthound) - Continuous infrastructure drift detection with historical tracking and notifications.
 
 ### Tests
 
