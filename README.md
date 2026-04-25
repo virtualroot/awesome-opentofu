@@ -72,6 +72,7 @@
 - [tenv](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
 - [tfswitcher](https://github.com/ASleepyCat/tfswitcher) - Terraform and OpenTofu version switcher written in Rust.
 - [tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 ### Wrappers
 
