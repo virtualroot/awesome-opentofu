@@ -29,7 +29,7 @@
 - [Fork announcement](https://opentofu.org/announcement)
 - [Registry](https://github.com/opentofu/registry)
 - [Registry MCP Server](https://github.com/opentofu/opentofu-mcp-server#opentofu-mcp-server)
-- [Weekly updates](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md)
+- [Weekly updates](https://github.com/opentofu/opentofu/discussions/categories/weekly-updates)
 - [Office hours](https://www.youtube.com/watch?v=aEoMzUza6Ok&list=PLnVotLM2QsyhCc1_8PA7fbVF-ixt4_XAY)
 - [Technical Steering Committee updates](https://github.com/opentofu/org/tree/main/TSC)
 
@@ -46,11 +46,11 @@
 
 <!--lint disable double-link-->
 
-- [1.10 - Enhanced moved and removed blocks](https://opentofu.org/docs/intro/whats-new/#enhanced-moved-and-removed-blocks)
-- [1.10 - External key providers](https://opentofu.org/docs/intro/whats-new/#external-key-providers)
+- [1.10 - Enhanced moved and removed blocks](https://opentofu.org/docs/v1.10/intro/whats-new/#enhanced-moved-and-removed-blocks)
+- [1.10 - External key providers](https://opentofu.org/docs/v1.10/intro/whats-new/#external-key-providers)
 - [1.10 - OCI registry support](https://opentofu.org/docs/cli/oci_registries/)
-- [1.10 - S3 native state locking](https://opentofu.org/docs/intro/whats-new/#native-s3-state-locking)
-- [1.10 - Target and exclude files](https://opentofu.org/docs/intro/whats-new/#target-and-exclude-files)
+- [1.10 - S3 native state locking](https://opentofu.org/docs/v1.10/intro/whats-new/#native-s3-state-locking)
+- [1.10 - Target and exclude files](https://opentofu.org/docs/v1.10/intro/whats-new/#target-and-exclude-files)
 - [1.9 - Provider iteration with for_each](https://opentofu.org/docs/v1.9/intro/whats-new/#provider-iteration-for_each)
 - [1.9 - The -exclude flag](https://opentofu.org/docs/v1.9/intro/whats-new/#the--exclude-flag)
 - [1.8 - Early variable and locals evaluation](https://opentofu.org/docs/v1.8/intro/whats-new/#early-variablelocals-evaluation)
