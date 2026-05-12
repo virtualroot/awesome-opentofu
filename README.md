@@ -108,6 +108,7 @@
 *Analyze and manipulate OpenTofu's state.*
 
 - [tfmigrate](https://github.com/minamijoyo/tfmigrate) - State migration tool.
+- [tfimport](https://github.com/coolapso/tfimport) - Tool to automate state imports.
 
 ### Providers
 
