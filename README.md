@@ -91,6 +91,7 @@
 
 - [Atlantis](https://www.runatlantis.io/) - Automating workflows via pull requests.
 - [Burrito](https://docs.burrito.tf/latest/overview/) - A TACoS (Terraform Automation and Collaboration Software) that works inside Kubernetes.
+- [c3x](https://github.com/c3xdev/c3x) - Cost estimates for OpenTofu code, including `.tofu` files and provider `for_each`, posted as a pull request comment.
 - [drifthound](https://github.com/treezio/drifthound) - Continuous infrastructure drift detection with historical tracking and notifications.
 - [opentofu-updater-action](https://github.com/drumandbytes/opentofu-updater-action) - Keeps OpenTofu and Terraform providers, modules, Helm charts and container images up to date by opening pull requests.
 - [TF-via-PR](https://github.com/OP5dev/TF-via-PR) - GitHub Action to init, plan and apply Terraform/OpenTofu via PR automation.
