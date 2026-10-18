@@ -121,6 +121,7 @@
 
 *Inspect and interact with OpenTofu providers.*
 
+- [terraform-provider-rustfs](https://github.com/caberdo/terraform-provider-rustfs) - Provider for RustFS S3-compatible object storage: buckets, IAM, policies, encryption, replication, storage tiers and audit/notification targets.
 - [tfschema](https://github.com/minamijoyo/tfschema) - Schema inspector for providers.
 
 ### Platforms
