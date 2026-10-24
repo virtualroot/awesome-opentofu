@@ -4,6 +4,14 @@
 
 [OpenTofu](https://opentofu.org/) allows you to declaratively manage your infrastructure. It's an open-source, community-driven alternative to Terraform.
 
+> 💡 Maintain a tool or provider that supports OpenTofu? Add this badge to your README to raise its visibility:
+>
+> ![OpenTofu compatibility](https://img.shields.io/badge/OpenTofu-Compatible-FFDA18?logo=opentofu&logoColor=white)
+>
+> ```md
+> ![OpenTofu compatibility](https://img.shields.io/badge/OpenTofu-Compatible-FFDA18?logo=opentofu&logoColor=white)
+> ```
+
 ## Contents <!-- omit in toc -->
 
 - [Official](#official)
