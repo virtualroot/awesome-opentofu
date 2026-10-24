@@ -86,6 +86,7 @@
 - [tfam](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
 - [tfexe](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
 - [tfwrapper](https://github.com/claranet/tfwrapper) - Python wrapper that simplifies OpenTofu usage and enforces best practices.
+- [tofunix](https://gitlab.com/TECHNOFAB/tofunix) - Nix flake library and CLI for defining and applying OpenTofu infrastructure as type-safe Nix expressions.
 
 ### CI
 
