@@ -109,6 +109,7 @@
 - [setup-opentofu](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
 - [terraform-github-actions](https://github.com/dflook/terraform-github-actions) - GitHub Actions for OpenTofu.
 - [tofu-controller](https://github.com/flux-iac/tofu-controller) - GitOps OpenTofu and Terraform controller for Flux.
+- [tofu-garnish](https://github.com/lowlydba/tofu-garnish) - GitHub Action to publish OpenTofu outputs as a static GitHub Pages site.
 - [tofUI](https://github.com/65156/tofUI) - Easily export OpenTofu and Terraform plans in HTML for better readability.
 
 ### Tests
