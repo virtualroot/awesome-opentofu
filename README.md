@@ -95,6 +95,7 @@
 - [tfexe](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
 - [tfwrapper](https://github.com/claranet/tfwrapper) - Python wrapper that simplifies OpenTofu usage and enforces best practices.
 - [tofunix](https://gitlab.com/TECHNOFAB/tofunix) - Nix flake library and CLI for defining and applying OpenTofu infrastructure as type-safe Nix expressions.
+- [Terradart](https://github.com/nozomi-koborinai/terradart) - Define infrastructure in Dart, synthesize standard Terraform JSON, and plan or apply with OpenTofu or Terraform.
 
 ### CI
 
